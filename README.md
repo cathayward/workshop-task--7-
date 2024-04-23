@@ -2,7 +2,7 @@
 
 ### notes:
 
-website link:
+website link: https://cathayward.github.io/workshop-task--7-/
 
 - I really liked the way that the walkers looked and moved across the screen so I decided to go with it.
 - It reminded me of the way painting might be created, one stroke at a time and so I decided to code 3 sets of walkers to draw a randomised landscape.
